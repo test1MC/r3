@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1">
   <TocEntry
@@ -12,7 +12,7 @@
     Link="/Content/Course-Content/3-Two-Tiles.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Course-Knowledge-Check/First-Knowledge-Check.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    Link="/Content/Course-Test/Course-Knowledge-Check/First-Knowledge-Check.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
     conditions="Default.KnowledgeCheck" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
@@ -22,7 +22,7 @@
     Link="/Content/Course-Content/5-Drop-Downs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Course-Knowledge-Check/Second-Knowledge-Check.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    Link="/Content/Course-Test/Course-Knowledge-Check/Second-Knowledge-Check.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
     conditions="Default.KnowledgeCheck" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
@@ -35,7 +35,7 @@
     Link="/Content/Course-Content/8-IFrame.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Course-Knowledge-Check/The-End.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    Link="/Content/Course-Test/Course-Knowledge-Check/The-End.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
     conditions="Default.KnowledgeCheckOnly" />
   <TocEntry
     Title="Austin Quiz"
